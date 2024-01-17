@@ -1,4 +1,8 @@
-### Hi there 👋
+### My name is Gonzalo Rodriguez Rizk👋
+
+🌿 I'm a doctoral fellow at CONICET in Argentina 🇦🇷 
+
+🌍  My work revolves around paleobiology and macroevolution of ferns.
 
 <!--
 **gzrizk/gzrizk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

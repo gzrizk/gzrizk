@@ -7,7 +7,6 @@
 
 - 🕸️ **Graph morphometrics** – a framework to quantify structures whose topology varies between specimens, applied to fern venation. Venation is extracted as a graph and compared with a **homology-constrained distance**.
 - 📐 **Geometric morphometrics** – pinnule outlines.
-- 🗺️ **Morphospaces** – theoretical (the space of possible venation topologies) vs. empirical (what is observed in fossils).
 - 🧬 **Macroevolution** – disparity, constraints, and how to bring venation into phylogenetic analyses.
 
 ## 📫 Contact
